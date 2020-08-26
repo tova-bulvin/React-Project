@@ -20,7 +20,7 @@ export default class HomePage extends Component {
     return (
       <div className="homepage">
         <div className="home-part-1"> 
-          <h2>Welcome to your Charger</h2>
+          <h2 aria-level="1">Welcome to your Charger</h2>
           <div className="wrap-box">
             <div className="box">
               <div className="wrap-icon">
