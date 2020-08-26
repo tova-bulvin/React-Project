@@ -1,0 +1,23 @@
+.main-enter{
+    width:70%;
+    display: block;
+    margin:auto;
+    max-width:max-content;
+    background-color:aquamarine;
+    color: black;
+    padding:10px;
+    border:2px solid black;
+    border-radius:20px;
+    
+}
+Button{
+    border: 3px solid rgb(20, 98, 146);
+}
+
+.btnGroup{
+    display: grid;
+    padding:12px;
+}
+.btnGroup button{
+    margin: 2px;
+}
